@@ -18,6 +18,7 @@ This is a simple iOS app built using Swift and UIKit that displays a collection 
 ## 🖼 Screenshots & Video
 ### Main Screen
 <img width="437" alt="Screenshot 2024-10-26 at 8 50 35 AM" src="https://github.com/user-attachments/assets/64d76387-85e7-40c5-966f-e8accad7fb49">
+**VIDEO**:
 https://github.com/user-attachments/assets/1a3baeec-c6da-48f7-8749-6c3a2ee9cfc0
 
 
